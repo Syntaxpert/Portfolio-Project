@@ -23,9 +23,6 @@ Welcome to my personal portfolio project! This portfolio showcases my web develo
 - **GitHub**: For hosting the project and sharing it with others.
 - **VSCode**: The code editor used to develop the project.
 
-## Live Demo
-
-Check out the live demo of the portfolio here: [jd.io](https://your-live-demo-link.com)
 
 ## Getting Started
 
