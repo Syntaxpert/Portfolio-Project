@@ -18,7 +18,6 @@ Welcome to my personal portfolio project! This portfolio showcases my web develo
 
 - ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) For structuring the content of the website.
 - ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) For styling the website, including the use of flexbox, grid, and media queries to ensure responsiveness.
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) For adding interactivity and enhancing the user experience.
 - ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) For version control and managing the codebase.
 - ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white) For hosting the project and sharing it with others.
 - ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) The code editor used to develop the project.
